@@ -1,0 +1,16 @@
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+venv/
+ENV/
+.env
+*.db
+*.log
+bot_output.log
+vacancy_bot.db
+.DS_Store
+*.swp
+*.swo
