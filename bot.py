@@ -90,7 +90,7 @@ async def start(update: Update, context: ContextTypes.DEFAULT_TYPE):
     webapp_button = [[
         InlineKeyboardButton(
             "🎨 Открыть красивое меню",
-            web_app=WebAppInfo(url="http://localhost:5000")
+            web_app=WebAppInfo(url="https://web-production-1e656.up.railway.app")
         )
     ]]
     
